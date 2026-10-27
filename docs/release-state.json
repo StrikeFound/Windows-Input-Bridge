@@ -1,0 +1,12 @@
+{
+  "Schema": 1,
+  "Product": "Windows-Input-Bridge",
+  "DriverVersion": "0.1.0.0",
+  "DemoSeconds": 3600,
+  "SigningPending": false,
+  "MicrosoftSigned": true,
+  "SignatureAndSubmissionMatchVerified": true,
+  "SubmissionId": "1152921505702244178",
+  "SignedInstallerLiveValidationPending": true,
+  "ReleaseUrl": "https://github.com/StrikeFound/Windows-Input-Bridge/releases/tag/v0.1.0.0"
+}

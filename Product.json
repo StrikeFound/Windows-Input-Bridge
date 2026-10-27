@@ -1,0 +1,14 @@
+{
+  "Name": "Windows-Input-Bridge",
+  "DisplayName": "Windows Input Bridge",
+  "Service": "WindowsInputBridge",
+  "DriverFile": "WindowsInputBridge.sys",
+  "Version": "0.1.0.0",
+  "InputMask": 3,
+  "ControllerMask": 15,
+  "Packages": [
+    "WindowsInputBridgeKeyboard.inf",
+    "WindowsInputBridgeMouse.inf",
+    "WindowsInputBridgeControl.inf"
+  ]
+}
